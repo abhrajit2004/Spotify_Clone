@@ -1,8 +1,0 @@
-{
-    "routes": [
-        {
-            "src": "/songs/(.*)",
-            "dest": "/songs/$1"
-        }
-    ]
-}
